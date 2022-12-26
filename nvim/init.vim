@@ -13,6 +13,10 @@ Plug 'nvim-tree/nvim-web-devicons'
 Plug 'romgrk/barbar.nvim'
 Plug 'ngmy/vim-rubocop'
 Plug 'thoughtbot/vim-rspec'
+Plug 'ariblade/vim-gitgutter'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
 call plug#end()
 
 set ruler
